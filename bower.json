@@ -1,6 +1,7 @@
 {
   "name": "flatiron-director",
   "private": true,
+  "version": "0.5.5-patched",
   "dependencies": {
     "polymer": "Polymer/polymer#0.5.5"
   }
